@@ -1,0 +1,26 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "this is my repo for node testing",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marija2/nodeTest.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "Marija Trifkovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marija2/nodeTest/issues"
+  },
+  "homepage": "https://github.com/marija2/nodeTest#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
